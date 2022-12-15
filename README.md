@@ -4,7 +4,7 @@ Welcome to the companion app of Odyssey Lift-off V (server)! You can [find the c
 
 You can [preview the completed demo app here](https://odyssey-lift-off-part5-client-production-82fb.up.railway.app/).
 
-You can [find the client counterpart here](https://github.com/christianjro/odyssey-lift-off-part5-server).
+You can [find the client counterpart here](https://github.com/christianjro/odyssey-lift-off-part5-client).
 
 ## How to use this repo
 
